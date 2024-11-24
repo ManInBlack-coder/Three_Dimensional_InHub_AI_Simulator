@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    justify-content: center; /* Keskjoondus horisontaalselt */
+    align-items: center; /* Keskjoondus vertikaalselt */
+    width: 100%; /* Või määrake konkreetne laius */
+    height: 100%; /* Või määrake konkreetne kõrgus */
+    background-color: #f0f0f0; /* Valikuline taustavärv */
+  }
+  
+  .simulator {
+    width: 50vmin; /* Kasutab väiksemat väärtust vaateakna kõrgusest või laiusest */
+    height: 50vmin; /* Sama väärtus kõrguseks, et ruut säiliks */
+    background-color: #ccc; /* Valikuline simulaatori värv */
+  }
+  
+
+  .parent  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px; /* Või muu kõrgus vastavalt vajadusele */
+  }
+  
+  .title_app {
+    display: flex;
+    justify-content: center; /* Horisontaalne tsentreerimine */
+    align-items: center; /* Vertikaalne tsentreerimine */
+    height: 100vh; /* Täidab kogu vaateakna kõrguse */
+    text-align: center; /* Teksti keskjoondamine */
+  }
+  
