@@ -17,7 +17,7 @@ Make sure you have Node.js and npm installed on your machine.
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/Conv-AI/Reallusion-web.git
+   git clone https://github.com/ManInBlack-coder/Three_Dimensional_InHub_AI_Simulator.git
    ```
 
 2. Navigate to the project directory:
